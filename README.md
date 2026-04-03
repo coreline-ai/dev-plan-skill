@@ -1,5 +1,10 @@
 # dev-plan-skill
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-coreline--ai%2Fdev--plan--skill-181717?logo=github)](https://github.com/coreline-ai/dev-plan-skill)
+[![Codex Skill](https://img.shields.io/badge/Codex-skill-412991)](./dev-plan-generator)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-D97757)](./.claude)
+[![skills-ref](https://img.shields.io/badge/skills--ref-validated-2ea44f)](./dev-plan-generator)
+
 > Scope-first development plan tooling for **Codex** and **Claude Code**.
 >
 > 목적, 범위, 제외 범위, Phase, 테스트 게이트를 먼저 고정해서 구현이 목표 밖으로 확장되지 않게 만드는 개발 계획 스킬/프롬프트 모음입니다.
