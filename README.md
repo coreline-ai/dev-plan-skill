@@ -1,3 +1,7 @@
+<img width="2752" height="1536" alt="완벽한 코딩을 위한 개발 계획" src="https://github.com/user-attachments/assets/65a026fe-4b6d-45d3-ab0e-52bc7e49e470" />
+
+
+
 # dev-plan-skill
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-coreline--ai%2Fdev--plan--skill-181717?logo=github)](https://github.com/coreline-ai/dev-plan-skill)
